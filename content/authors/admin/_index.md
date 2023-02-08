@@ -17,7 +17,7 @@ social:
     link: https://www.linkedin.com/in/hao-zhang-b3a178265/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_HZ.pdf
 organizations:
   - name: Los Alamos National Laboratory
     url: https://www.lanl.gov/
