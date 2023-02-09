@@ -39,5 +39,5 @@ title: Hao Zhang (张浩)
 first_name: Hao
 email: hzhangphys@gmail.com
 ---
-I am a Postdoc Research Associate at Los Alamos National Laboratory. My primary research interests are novel states of matters of frustrated quantum materials, including (magnetic) topological solitons, spin liquids, heavy-fermion systems, etc.
+I am a Postdoc Research Associate at the Theoretical Division and Center for Non-linear Studies of Los Alamos National Laboratory. I work in theoretical condensed matter physics. My primary research interests are novel states of matter emerging in quantum materials, including (magnetic) topological solitons, spin liquids, heavy-fermion systems, etc.
 {style="text-align: justify;"}

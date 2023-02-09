@@ -85,7 +85,7 @@ sections:
           date_start: '2016-08-13'
           date_end: '2022-08-13'
           description:  <a href="https://trace.tennessee.edu/utk_graddiss/7311/">Dissertation "Semi-classical Theories of Quantum Magnets"</a> 
-        - title: B. S. in Physics
+        - title: B.S. in Physics
           company: Colledge of Physics, Sichuan University
           company_url: 'https://physics.scu.edu.cn/en/'
           # company_logo: org-x
@@ -97,20 +97,20 @@ sections:
       columns: '4'
   - block: features
     content:
-      title: Skills
+      title: Programming Languages
       items:
         - name: Julia
-          # description: 90%
-          icon: julia-icon
-          # icon_pack: fab
+          description: Primary programming language
+          icon: code
+          icon_pack: fas
         - name: Python
-          # description: 100%
-          icon: python-icon
-          # icon_pack: fas
+          description: For routine work
+          icon: python
+          icon_pack: fab
         - name: Mathematica
-          # description: 10%
-          icon: mathematica
-          # icon_pack: fas
+          description: For symbolic calculations
+          icon: calculator
+          icon_pack: fas
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -197,8 +197,8 @@ sections:
   #         tag: '*'
   #       - name: Deep Learning
   #         tag: Deep Learning
-  #       - name: Other
-  #         tag: Demo
+  #       # - name: Sunny
+  #       #   tag: Sunny
   #   design:
   #     # Choose how many columns the section has. Valid values: '1' or '2'.
   #     columns: '1'
