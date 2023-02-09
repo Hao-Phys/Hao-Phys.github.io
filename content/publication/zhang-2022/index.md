@@ -5,7 +5,7 @@ title: CP $^ 2$ Skyrmions and Skyrmion Crystals in Realistic Quantum Magnets
 subtitle: ''
 summary: ''
 authors:
-- Hao Zhang
+- admin
 - Zhentao Wang
 - David Dahlbom
 - Kipton Barros

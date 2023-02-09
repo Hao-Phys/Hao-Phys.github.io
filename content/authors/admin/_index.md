@@ -5,7 +5,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: hzhangphys@gmail.com
+    link: mailto:hzhangphys@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=ZHsCZyAAAAAJ&hl=en

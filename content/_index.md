@@ -82,9 +82,9 @@ sections:
           company_url: 'http://www.phys.utk.edu/'
           company_logo: 
           location: Knoxville, Tennessee, USA
-          date_start: '2022-08-15'
-          date_end: '2023-01-13'
-          description: Dissertation "Semi-classical Theories of Quantum Magnets"
+          date_start: '2016-08-13'
+          date_end: '2022-08-13'
+          description:  <a href="https://trace.tennessee.edu/utk_graddiss/7311/">Dissertation "Semi-classical Theories of Quantum Magnets"</a> 
         - title: B. S. in Physics
           company: Colledge of Physics, Sichuan University
           company_url: 'https://physics.scu.edu.cn/en/'
@@ -259,35 +259,35 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Plese do not hesitate to contact me about physics!.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: hzhangphys@gmail.com
+      phone: +1 (865) 283-7023
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: CNLS, MS B258, Los Alamos National Laboratory
+        city: Los Alamos
+        region: NM
+        postcode: '87546'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/Twitter'
+      #   - icon: skype
+      #     icon_pack: fab
+      #     name: Skype Me
+      #     link: 'skype:echo123?call'
+      #   - icon: video
+      #     icon_pack: fas
+      #     name: Zoom Me
+      #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
