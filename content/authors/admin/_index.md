@@ -1,5 +1,5 @@
 ---
-avatar_filename: 1675660620809.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
@@ -17,7 +17,7 @@ social:
     link: https://www.linkedin.com/in/hao-zhang-b3a178265/
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_HZ.pdf
+    link: uploads/resume.pdf
 organizations:
   - name: Los Alamos National Laboratory
     url: https://www.lanl.gov/
@@ -32,11 +32,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Zhang
 role: Postdoc Research Associate
 highlight_name: true
 title: Hao Zhang (张浩)
-first_name: Alice
+first_name: Hao
 email: hzhangphys@gmail.com
 ---
 I am a Postdoc Research Associate at Los Alamos National Laboratory. My primary research interests are novel states of matters of frustrated quantum materials, including (magnetic) topological solitons, spin liquids, heavy-fermion systems, etc.
